@@ -41,6 +41,7 @@ public class LoginSteps {
         System.out.println("The user enter values");
         System.out.println("The user enter values");
         System.out.println("The user enter values");
+        System.out.println("new selenium");
     }
 
     @Then("^The user is logged$")
