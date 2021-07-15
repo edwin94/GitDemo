@@ -30,6 +30,8 @@ public class LoginSteps {
         System.out.println("New step to add");
         System.out.println("New step to add");
         System.out.println("New step to add");
+
+        System.out.println("from branch develop");
     }
 
     @When("^The user enter values$")
