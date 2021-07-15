@@ -24,6 +24,7 @@ public class LoginSteps {
     public void the_user_is_on_page(){
         driver = getChrome();
         System.out.println("The user is on page");
+        System.out.println("New step to add");
     }
 
     @When("^The user enter values$")
