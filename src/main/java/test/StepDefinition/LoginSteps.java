@@ -34,6 +34,10 @@ public class LoginSteps {
 
     @When("^The user enter values$")
     public void the_user_enter_values(){
+
+
+        System.out.println("The user enter values");
+        System.out.println("The user enter values");
         System.out.println("The user enter values");
     }
 
