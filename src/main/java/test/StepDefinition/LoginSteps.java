@@ -40,5 +40,8 @@ public class LoginSteps {
     @Then("^The user is logged$")
     public void the_user_is_logged(){
         System.out.println("The user is logged");
+
+
+        System.out.println("The user is logged");
     }
 }
